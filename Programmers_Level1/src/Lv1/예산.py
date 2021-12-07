@@ -14,20 +14,6 @@ for x in d:
 print(cnt)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 시간초과남
 # cnt=0
 # cnt=0
