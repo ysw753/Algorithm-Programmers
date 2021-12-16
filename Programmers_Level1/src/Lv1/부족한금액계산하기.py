@@ -11,4 +11,6 @@ while count > 0:
     count -= 1
 
 answer = total-money
+if answer <= 0:
+    answer = 0
 print(answer)
