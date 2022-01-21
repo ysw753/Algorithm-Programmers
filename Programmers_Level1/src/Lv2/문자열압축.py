@@ -18,7 +18,6 @@ for i in range(1, len(s)//2+1):
             tmp = s[j:i+j]
     if cnt == 1:
         answer += tmp
-    print(len(answer))
     if length > len(answer):
         length = len(answer)
     answer = ''
